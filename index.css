@@ -1,0 +1,8 @@
+html {
+	background-color: #004000;
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
